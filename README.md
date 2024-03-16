@@ -27,8 +27,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/recipe-page-p7QKmT-8ZA)
-- Live Site URL: (https://recipe-page-beta-eight.vercel.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-links-profile-WDnvIwpys6)
+- Live Site URL: (https://social-links-profile-cyan.vercel.app/)
 
 ## My process
 
@@ -42,6 +42,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Hemant Rajput](https://recipe-page-beta-eight.vercel.app/)
+- Website - [Hemant Rajput](https://social-links-profile-cyan.vercel.app/)
 - Frontend Mentor - [@hemant5057](www.frontendmentor.io/profile/hemant5057)
 - Twitter - [@HemantRajput419](https://www.twitter.com/HemantRajput419)
